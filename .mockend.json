@@ -1,5 +1,8 @@
 {
-    "channelShare": { 
-        "label": { "string" {} }
+    "ChannelShare": { 
+        "label": { "string": {} },
+        "value": { "int": {} },
+        "color": "secondary", 
+        "icon": "faDesktop" 
     }
 }
