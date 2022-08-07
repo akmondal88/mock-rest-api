@@ -3,6 +3,6 @@
         "label": { "string": [ "AP", "CQP", "ACX", "WHI", "WBL" ] },
         "value": { "int": [ 20, 30, 10, 25, 15] },
         "color": { "string": [ "secondary" ] }, 
-        "icon":  { "var": [ "faDesktop" ] }
+        "icon":  { "string": [ "faDesktop" ] }
     }
 }
