@@ -1,5 +1,8 @@
 {
-	"Post": { 
-		"label": { "string": {} }
-	}
+    "Post": { 
+        "label": { "string": {} },
+        "value": { "int": {} },
+        "color": "secondary", 
+        "icon": "faDesktop" 
+    }
 }
